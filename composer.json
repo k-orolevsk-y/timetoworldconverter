@@ -1,0 +1,14 @@
+{
+    "name": "k-orolevsk-y/timetoworldconverter",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "k-orolevsk-y",
+            "email": "i@korolevsky.me"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
